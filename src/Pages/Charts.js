@@ -1,12 +1,12 @@
 import React from "react";
 
-function Chart () {
+function Charts () {
 
     return (
-        <div className="Chart">
+        <div className="Charts">
             <h1> Charts </h1>
         </div>
     );
 }
 
-export default Chart;
+export default Charts;
